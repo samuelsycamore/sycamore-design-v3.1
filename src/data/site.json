@@ -1,0 +1,33 @@
+{
+  "name": "Sycamore Design",
+  "description": "The internet home of Sam Sycamore, writer and web developer.",
+  "url": "https://www.sycamore.design",
+  "author": {
+    "name": "Sam Sycamore",
+    "email": "sam@sycamore.design",
+    "twitterHandle": "tanoaksam"
+  },
+  "defaultSocialImage": "/images/default-social-image.png",
+  "headerLinks": [
+    {
+      "text": "Home",
+      "url": "/",
+      "external": false
+    },
+    {
+      "text": "Blog",
+      "url": "https://blog.sycamore.design",
+      "external": true
+    },
+    {
+      "text": "Newsletter",
+      "url": "/newsletter",
+      "external": false
+    },
+    {
+      "text": "About",
+      "url": "/about",
+      "external": false
+    }
+  ]
+}
