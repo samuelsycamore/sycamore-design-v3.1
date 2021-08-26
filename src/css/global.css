@@ -5,8 +5,8 @@ html {
 }
 
 body {
-  background: rgb(40,44,55);
-  background: radial-gradient(circle, rgba(71,79,98,1) 0%, rgba(40,44,55,1) 100%);
+  background: rgb(21,45,83);
+  background: radial-gradient(circle, rgba(21,45,83,1) 0%, rgba(5,4,62,1) 100%);
 }
 
 body::-webkit-scrollbar {
@@ -213,7 +213,25 @@ form {
   padding: 20px 0;
 }
 
+form label {
+  margin-right: 20px;
+}
+
 form input {
-  border: 1px solid black;
-  padding: 10px 20px;
+  background: black;
+  color: white;
+  border: 1px solid white;
+  padding: 10px 30px;
+  margin: 10px 0;
+  width: 100%;
+  max-width: 400px;
+}
+
+form .button {
+  background: black;
+  font-size: var(--text-lg);
+  text-transform: uppercase;
+  margin-left: 0;
+  border: 1px solid white;
+  max-width: 220px;
 }

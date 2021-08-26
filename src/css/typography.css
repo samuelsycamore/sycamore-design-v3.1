@@ -13,7 +13,7 @@
 
 body {
   font-size: var(--text-lg);
-  line-height: 1.3em;
+  line-height: 1.4em;
   color: var(--color);
   text-rendering: optimizeLegibility;
   -webkit-font-smoothing: antialiased;
@@ -58,5 +58,5 @@ h4 {
 
 p {
   font-size: var(--text-lg);
-  margin-bottom: 20px;
+  margin-bottom: 10px;
 }

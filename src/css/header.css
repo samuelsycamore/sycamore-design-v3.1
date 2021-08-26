@@ -20,7 +20,8 @@
 }
 
 .header__content img {
-  max-width: 444px;
+  max-width: 300px;
+  padding: 0 50px 0 0;
   margin-bottom: 10px;
 }
 
